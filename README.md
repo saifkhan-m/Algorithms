@@ -2,7 +2,7 @@
 The following algorithms have been implemented in the repository.
 
 Sorting
-1. Insertion Sort
+1. Insertion Sort here(Helium/Algos/InsertionSort.py)
 2. Merge Sort
 3. Quicksort
 4. Quicksort(Stacked Depth)
